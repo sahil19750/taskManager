@@ -52,36 +52,8 @@ An Android Task Manager application built using **Kotlin**, **MVVM architecture*
 - Task Completed Event
 - Task Edited Event
 
-*(screenshots/analytics/ reference here)*
+*(screenshots/analytics/screen recording reference here)*
 https://drive.google.com/drive/folders/1nHd6aStQGaP4nzldU-UgYsC5-0ptro_C?usp=drive_link
-
-
----
-
-## 📹 Mobile Screen Recording of Crash
-
-> Record your device using screen recording while performing:
-
-- Manual crash via "Force Crash" button
-- Illegal Room DB crash via "DB Crash" button
-
-**Upload the screen recording in `/media/recordings/` and link it here.**
-
----
-
-## 💥 Firebase Crashlytics Screenshots
-
-> Add screenshots showing the logs and crash traces from Firebase Crashlytics.
-
-*(Place them in `/screenshots/crashlytics/`)*
-
----
-
-## 📡 Network Performance Screenshots
-
-> After syncing tasks from the mock API (`https://mocki.io/v1/8439bce9-1555-4a9e-a146-8de2e4d3cdbc`), add screenshots of Firebase Performance Monitoring's network traces.
-
-*(Place them in `/screenshots/performance/`)*
 
 ---
 
